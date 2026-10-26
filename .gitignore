@@ -1,0 +1,4 @@
+node_modules/
+*.pdb
+*.tmp
+shot*.png
